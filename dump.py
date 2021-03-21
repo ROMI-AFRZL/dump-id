@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-
+# coding by Romi Afrizal
 import os, re, sys, itertools, time, requests, random, threading, json, random
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
