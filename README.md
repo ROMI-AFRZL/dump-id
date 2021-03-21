@@ -10,3 +10,4 @@
  cd dump-id
  python2 dump.py
 ````
+Dump id facebook. login Token & Cookie facebook
